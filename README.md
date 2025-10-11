@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-EduPredict is a machine learning application designed to provide insights into academic performance. With an 89% success rate, this application leverages Python-based scripts to train, deploy, and evaluate machine learning models locally.
+EduPredict is a machine learning application designed to provide insights into academic performance. With an 90% success rate, this application leverages Python-based scripts to train, deploy, and evaluate machine learning models locally.
 
 ## Key Achievements
 
